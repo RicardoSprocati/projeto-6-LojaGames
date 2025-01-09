@@ -33,8 +33,34 @@ Este projeto utiliza as seguintes tecnologias e bibliotecas:
 
 ---
 
+## 🚀 Como rodar o projeto
+
+Siga as etapas abaixo para configurar e rodar o projeto localmente:
+
+1. **Pré-requisitos**  
+   Certifique-se de ter instalado na sua máquina:  
+   - **Node.js** (versão 16 ou superior recomendada)  
+   - **npm** (gerenciador de pacotes do Node, normalmente incluído com o Node.js)  
+
+2. **Clonar o repositório**  
+   Clone o projeto para sua máquina local executando o comando:  
+
+   ```bash
+   git clone https://github.com/RicardoSprocati/projeto-6-LojaGames.git
+
+3. **Instalar as dependências**
+
+   npm install
+4. **Iniciar o servidor de desenvolvimento**
+
+   npm start
+
+---
+
 ## Licença
 MIT.
+
+---
 
 ## Link para o Projeto
 
