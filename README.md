@@ -33,6 +33,9 @@ Este projeto utiliza as seguintes tecnologias e bibliotecas:
 
 ---
 
+## Licença
+MIT.
+
 ## Link para o Projeto
 
 O projeto está publicado e pode ser acessado no seguinte endereço:
